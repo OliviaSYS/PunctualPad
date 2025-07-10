@@ -16,6 +16,7 @@ All of this macropad uses KMK firmware in Circuit Python.
 
 # Screenshots
 The PCB and Schematic were created in Kicad, and the hackpad CAD model was created using Autodesk Fusion 360.
+
 PCB:
 <img width="664" height="677" alt="image" src="https://github.com/user-attachments/assets/a7e61a85-a95a-40ed-862d-b5ee05f67e58" />
 
