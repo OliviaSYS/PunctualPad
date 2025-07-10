@@ -1,4 +1,4 @@
-# Olivia-s-KEYpad
+# PunctualPad
 
 # Description
 PunctualPad is a 6 key macropad with 2 WS2812B Leds which uses KMK firmware and six buttons for typing the punctuation marks, ".", "?", ",", "!", ";", and ":".
